@@ -119,8 +119,9 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     <p><i>Images: top: structure of RuBisCO complex consisting of 8 large and and 8 small subunits. left: RuBP binding the active site of the RuBisCO large subunit.</i></p>
   </div>
 </div>
+
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/wild_rices.jpg" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/wild_rices.jpeg" style="width:150px; height:150px;">
   <a name='wildrice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Overcoming the domestication bottleneck in rice</h3>
